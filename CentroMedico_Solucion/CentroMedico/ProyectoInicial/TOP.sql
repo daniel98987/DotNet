@@ -1,0 +1,1 @@
+SELECT TOP 2 nombre, apellido from paciente
