@@ -1,0 +1,72 @@
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\obj\Debug\net8.0\study this framework.csproj.AssemblyReference.cache
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\obj\Debug\net8.0\study this framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\obj\Debug\net8.0\study this framework.AssemblyInfoInputs.cache
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\obj\Debug\net8.0\study this framework.AssemblyInfo.cs
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\obj\Debug\net8.0\study this framework.csproj.CoreCompileInputs.cache
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\obj\Debug\net8.0\study this framework.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\obj\Debug\net8.0\study this framework.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\obj\Debug\net8.0\study this framework.sourcelink.json
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\appsettings.json
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\study this framework.exe
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\study this framework.deps.json
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\study this framework.runtimeconfig.json
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\study this framework.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\study this framework.pdb
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\obj\Debug\net8.0\staticwebassets\msbuild.study this framework.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\obj\Debug\net8.0\staticwebassets\msbuild.build.study this framework.props
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.study this framework.props
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.study this framework.props
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\obj\Debug\net8.0\scopedcss\bundle\study this framework.styles.css
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\obj\Debug\net8.0\study th.5E339EAA.Up2Date
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\obj\Debug\net8.0\study this framework.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\obj\Debug\net8.0\refint\study this framework.dll
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\obj\Debug\net8.0\study this framework.pdb
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\obj\Debug\net8.0\study this framework.genruntimeconfig.cache
+C:\Users\dzamb\Desktop\dotNet\.study-dot-net\obj\Debug\net8.0\ref\study this framework.dll

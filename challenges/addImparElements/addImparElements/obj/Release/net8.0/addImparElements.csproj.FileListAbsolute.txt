@@ -1,0 +1,14 @@
+C:\Users\dzamb\Documents\DotNet\challenges\addImparElements\addImparElements\bin\Release\net8.0\addImparElements.exe
+C:\Users\dzamb\Documents\DotNet\challenges\addImparElements\addImparElements\bin\Release\net8.0\addImparElements.deps.json
+C:\Users\dzamb\Documents\DotNet\challenges\addImparElements\addImparElements\bin\Release\net8.0\addImparElements.runtimeconfig.json
+C:\Users\dzamb\Documents\DotNet\challenges\addImparElements\addImparElements\bin\Release\net8.0\addImparElements.dll
+C:\Users\dzamb\Documents\DotNet\challenges\addImparElements\addImparElements\bin\Release\net8.0\addImparElements.pdb
+C:\Users\dzamb\Documents\DotNet\challenges\addImparElements\addImparElements\obj\Release\net8.0\addImparElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzamb\Documents\DotNet\challenges\addImparElements\addImparElements\obj\Release\net8.0\addImparElements.AssemblyInfoInputs.cache
+C:\Users\dzamb\Documents\DotNet\challenges\addImparElements\addImparElements\obj\Release\net8.0\addImparElements.AssemblyInfo.cs
+C:\Users\dzamb\Documents\DotNet\challenges\addImparElements\addImparElements\obj\Release\net8.0\addImparElements.csproj.CoreCompileInputs.cache
+C:\Users\dzamb\Documents\DotNet\challenges\addImparElements\addImparElements\obj\Release\net8.0\addImparElements.dll
+C:\Users\dzamb\Documents\DotNet\challenges\addImparElements\addImparElements\obj\Release\net8.0\refint\addImparElements.dll
+C:\Users\dzamb\Documents\DotNet\challenges\addImparElements\addImparElements\obj\Release\net8.0\addImparElements.pdb
+C:\Users\dzamb\Documents\DotNet\challenges\addImparElements\addImparElements\obj\Release\net8.0\addImparElements.genruntimeconfig.cache
+C:\Users\dzamb\Documents\DotNet\challenges\addImparElements\addImparElements\obj\Release\net8.0\ref\addImparElements.dll

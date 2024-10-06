@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dzamb\\Desktop\\dotNet\\funcionalitiesC-\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB770290-8A5A-4630-84E6-5ED346D5FF2C}|Listas\\LearningC.csproj|c:\\users\\dzamb\\desktop\\dotnet\\funcionalitiesc-\\listas\\stringbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB770290-8A5A-4630-84E6-5ED346D5FF2C}|Listas\\LearningC.csproj|solutionrelative:listas\\stringbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB770290-8A5A-4630-84E6-5ED346D5FF2C}|Listas\\LearningC.csproj|c:\\users\\dzamb\\desktop\\dotnet\\funcionalitiesc-\\listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB770290-8A5A-4630-84E6-5ED346D5FF2C}|Listas\\LearningC.csproj|solutionrelative:listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB770290-8A5A-4630-84E6-5ED346D5FF2C}|Listas\\LearningC.csproj|c:\\users\\dzamb\\desktop\\dotnet\\funcionalitiesc-\\listas\\listtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB770290-8A5A-4630-84E6-5ED346D5FF2C}|Listas\\LearningC.csproj|solutionrelative:listas\\listtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB770290-8A5A-4630-84E6-5ED346D5FF2C}|Listas\\LearningC.csproj|c:\\users\\dzamb\\desktop\\dotnet\\funcionalitiesc-\\listas\\delegadosfuncaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB770290-8A5A-4630-84E6-5ED346D5FF2C}|Listas\\LearningC.csproj|solutionrelative:listas\\delegadosfuncaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB770290-8A5A-4630-84E6-5ED346D5FF2C}|Listas\\LearningC.csproj|c:\\users\\dzamb\\desktop\\dotnet\\funcionalitiesc-\\listas\\experiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB770290-8A5A-4630-84E6-5ED346D5FF2C}|Listas\\LearningC.csproj|solutionrelative:listas\\experiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB770290-8A5A-4630-84E6-5ED346D5FF2C}|Listas\\LearningC.csproj|c:\\users\\dzamb\\desktop\\dotnet\\funcionalitiesc-\\listas\\ifruits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB770290-8A5A-4630-84E6-5ED346D5FF2C}|Listas\\LearningC.csproj|solutionrelative:listas\\ifruits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB770290-8A5A-4630-84E6-5ED346D5FF2C}|Listas\\LearningC.csproj|c:\\users\\dzamb\\desktop\\dotnet\\funcionalitiesc-\\listas\\ilist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB770290-8A5A-4630-84E6-5ED346D5FF2C}|Listas\\LearningC.csproj|solutionrelative:listas\\ilist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IList.cs",
+              "DocumentMoniker": "C:\\Users\\dzamb\\Desktop\\dotNet\\funcionalitiesC-\\Listas\\IList.cs",
+              "RelativeDocumentMoniker": "Listas\\IList.cs",
+              "ToolTip": "C:\\Users\\dzamb\\Desktop\\dotNet\\funcionalitiesC-\\Listas\\IList.cs",
+              "RelativeToolTip": "Listas\\IList.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:44:55.562Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\dzamb\\Desktop\\dotNet\\funcionalitiesC-\\Listas\\StringBehaviour.cs",
+              "RelativeDocumentMoniker": "Listas\\StringBehaviour.cs",
+              "ToolTip": "C:\\Users\\dzamb\\Desktop\\dotNet\\funcionalitiesC-\\Listas\\StringBehaviour.cs",
+              "RelativeToolTip": "Listas\\StringBehaviour.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T03:40:46.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DelegadosFuncAction.cs",
+              "DocumentMoniker": "C:\\Users\\dzamb\\Desktop\\dotNet\\funcionalitiesC-\\Listas\\DelegadosFuncAction.cs",
+              "RelativeDocumentMoniker": "Listas\\DelegadosFuncAction.cs",
+              "ToolTip": "C:\\Users\\dzamb\\Desktop\\dotNet\\funcionalitiesC-\\Listas\\DelegadosFuncAction.cs",
+              "RelativeToolTip": "Listas\\DelegadosFuncAction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T03:21:40.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListTypes.cs",
+              "DocumentMoniker": "C:\\Users\\dzamb\\Desktop\\dotNet\\funcionalitiesC-\\Listas\\ListTypes.cs",
+              "RelativeDocumentMoniker": "Listas\\ListTypes.cs",
+              "ToolTip": "C:\\Users\\dzamb\\Desktop\\dotNet\\funcionalitiesC-\\Listas\\ListTypes.cs",
+              "RelativeToolTip": "Listas\\ListTypes.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:47:43.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Experiment.cs",
+              "DocumentMoniker": "C:\\Users\\dzamb\\Desktop\\dotNet\\funcionalitiesC-\\Listas\\Experiment.cs",
+              "RelativeDocumentMoniker": "Listas\\Experiment.cs",
+              "ToolTip": "C:\\Users\\dzamb\\Desktop\\dotNet\\funcionalitiesC-\\Listas\\Experiment.cs",
+              "RelativeToolTip": "Listas\\Experiment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:45:10.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFruits.cs",
+              "DocumentMoniker": "C:\\Users\\dzamb\\Desktop\\dotNet\\funcionalitiesC-\\Listas\\IFruits.cs",
+              "RelativeDocumentMoniker": "Listas\\IFruits.cs",
+              "ToolTip": "C:\\Users\\dzamb\\Desktop\\dotNet\\funcionalitiesC-\\Listas\\IFruits.cs",
+              "RelativeToolTip": "Listas\\IFruits.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:45:07.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dzamb\\Desktop\\dotNet\\funcionalitiesC-\\Listas\\Program.cs",
+              "RelativeDocumentMoniker": "Listas\\Program.cs",
+              "ToolTip": "C:\\Users\\dzamb\\Desktop\\dotNet\\funcionalitiesC-\\Listas\\Program.cs",
+              "RelativeToolTip": "Listas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:44:28.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

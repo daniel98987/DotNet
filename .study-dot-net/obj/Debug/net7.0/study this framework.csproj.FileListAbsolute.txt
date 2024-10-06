@@ -1,0 +1,33 @@
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\bin\Debug\net7.0\appsettings.json
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\bin\Debug\net7.0\study this framework.exe
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\bin\Debug\net7.0\study this framework.deps.json
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\bin\Debug\net7.0\study this framework.runtimeconfig.json
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\bin\Debug\net7.0\study this framework.dll
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\bin\Debug\net7.0\study this framework.pdb
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\obj\Debug\net7.0\study this framework.csproj.AssemblyReference.cache
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\obj\Debug\net7.0\study this framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\obj\Debug\net7.0\study this framework.AssemblyInfoInputs.cache
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\obj\Debug\net7.0\study this framework.AssemblyInfo.cs
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\obj\Debug\net7.0\study this framework.csproj.CoreCompileInputs.cache
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\obj\Debug\net7.0\study this framework.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\obj\Debug\net7.0\study this framework.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\obj\Debug\net7.0\staticwebassets\msbuild.study this framework.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\obj\Debug\net7.0\staticwebassets\msbuild.build.study this framework.props
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.study this framework.props
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.study this framework.props
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\obj\Debug\net7.0\scopedcss\bundle\study this framework.styles.css
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\obj\Debug\net7.0\study this framework.csproj.CopyComplete
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\obj\Debug\net7.0\study this framework.dll
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\obj\Debug\net7.0\refint\study this framework.dll
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\obj\Debug\net7.0\study this framework.pdb
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\obj\Debug\net7.0\study this framework.genruntimeconfig.cache
+C:\Users\dzamb\OneDrive\.NET\Curso programación orientada objetos\superHeroeApp\study this framework\obj\Debug\net7.0\ref\study this framework.dll
